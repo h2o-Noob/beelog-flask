@@ -7,8 +7,6 @@ Welcome to Beelog, a robust full-stack blog platform built with Flask and SQL. D
 
 **Client:** Flask, Python
 
-**Server:** Django
-
 **Database:** SQL
 
 ## Lessons Learned
